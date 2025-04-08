@@ -3,7 +3,7 @@ class main
 {
   public static void main(String[] args)
   {
-      System.out.println("HEllo Mr Ajay ");
+      System.out.println("DevOps is on thursday");
   }
 
 }
